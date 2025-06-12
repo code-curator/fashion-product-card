@@ -1,0 +1,1 @@
+This is a simple, beginner-friendly web project that displays stylish fashion cards using **HTML** and **CSS**. The project is designed to help build confidence in layout design, Flexbox/Grid skills, and basic web structure.
